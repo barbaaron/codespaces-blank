@@ -1,2 +1,2 @@
-def func():
-    pass
+def func(x):
+    return x=='test'

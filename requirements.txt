@@ -1,1 +1,2 @@
+pytest
 -e file:./src/packages --config-settings editable_mode=compat
